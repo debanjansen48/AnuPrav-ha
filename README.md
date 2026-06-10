@@ -1,5 +1,5 @@
 # AnuPravha
-AnuPravāha  is a  self-contained Linux binary executable (~4,100 lines) that automates the entire AMBER MD workflow from raw input files to publication-ready figures. 
+AnuPravāha  is a  self-contained Linux binary executable tool. This tool automates the entire AMBER MD workflow from raw input files to publication-ready figures. 
 
 Download all files from 001 to 010.Place them intu a single diractory/folder. click upon 001 and extract. We used winrar for the extraction.
 
